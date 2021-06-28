@@ -1,1 +1,104 @@
-
+{
+	"music": [
+		{
+			"name": "Sài Gòn Hôm Nay Mưa",
+			"singer": "JSOL Hoàng Duyên",
+			"url": "https://data25.chiasenhac.com/download2/2174/1/2173778-f967e564/32/Sai%20Gon%20Hom%20Nay%20Mua%20-%20JSOL_%20Hoang%20Duyen.m4a"
+		},
+		{
+			"name": "Thích Em Hơi Nhiều",
+			"singer": "Wren Evans",
+			"url": "https://data25.chiasenhac.com/download2/2177/1/2176722-cf36007c/32/Thich%20Em%20Hoi%20Nhieu%20-%20Wren%20Evans.m4a"
+		},
+		{
+			"name": "Đường Tôi Chở Em Về (Cukak Remix)",
+			"singer": "buitruonglinh Cukak",
+			"url": "https://data25.chiasenhac.com/download2/2176/1/2175841-cbb45f0c/32/Duong%20Toi%20Cho%20Em%20Ve%20Cukak%20Remix_%20-%20buitr.m4a"
+		},
+		{
+			"name": "Người Chơi Hệ Đẹp (Cukak Remix)",
+			"singer": "16 Typh Cukak",
+			"url": "https://data25.chiasenhac.com/download2/2177/1/2176923-0788442c/32/Nguoi%20Choi%20He%20Dep%20Cukak%20Remix_%20-%2016%20Typh.m4a"
+		},
+		{
+			"name": "The Playah (Special Performance)",
+			"singer": "Soobin SlimV",
+			"url": "https://data25.chiasenhac.com/download2/2171/1/2170940-6197d93a/32/The%20Playah%20Special%20Performance_%20-%20Soobin.m4a"
+		},
+		{
+			"name": "Trốn Tìm",
+			"singer": "Đen",
+			"url": "https://data25.chiasenhac.com/download2/2172/1/2171043-de949f5d/32/Tron%20Tim%20-%20Den_%20MTV%20Band.m4a"
+		},
+		{
+			"name": "Tự Em Đa Tình (Phong DN Remix)",
+			"singer": "Quinn",
+			"url": "https://data25.chiasenhac.com/download2/2175/1/2174501-19336982/32/Tu%20Em%20Da%20Tinh%20Phong%20DN%20Remix_%20-%20Quinn.m4a"
+		},
+		{
+			"name": "Lụy Tình",
+			"singer": "TLong",
+			"url": "https://data25.chiasenhac.com/download2/2178/1/2177953-a804b966/32/Luy%20Tinh%20-%20TLong.m4a"
+		},
+		{
+			"name": "Tháng Năm (Version Ballad)",
+			"singer": "Soobin Hoàng Sơn SlimV",
+			"url": "https://data25.chiasenhac.com/download2/2178/1/2177573-ca2908af/32/Thang%20Nam%20Version%20Ballad_%20-%20Soobin%20Hoang.m4a"
+		},
+		{
+			"name": "Cô Đơn Dành Cho Ai (Remix)",
+			"singer": "Orinn Lee Ken Nal",
+			"url": "https://data25.chiasenhac.com/download2/2173/1/2172819-08e76802/32/Co%20Don%20Danh%20Cho%20Ai%20Remix_%20-%20Orinn_%20Lee%20K.m4a"
+		},
+		{
+			"name": "Bỏ Em vào Balo",
+			"singer": "Tân Trần Freak D",
+			"url": "https://data25.chiasenhac.com/download2/2176/1/2175613-22b82a49/32/Bo%20Em%20vao%20Balo%20-%20Tan%20Tran_%20Freak%20D.m4a"
+		},
+		{
+			"name": "Xe Anh Đến Đâu Em Theo Đến Đó",
+			"singer": "Dương Hoàng Yến Đạt G",
+			"url": "https://data25.chiasenhac.com/download2/2177/1/2176255-0c9097ac/32/Xe%20Anh%20Den%20Dau%20Em%20Theo%20Den%20Do%20-%20Duong%20Ho.m4a"
+		},
+		{
+			"name": "Xin Đừng Nhấc Máy (The Heroes)",
+			"singer": "Han Sara",
+			"url": "https://data25.chiasenhac.com/download2/2178/1/2177917-9123b06c/32/Xin%20Dung%20Nhac%20May%20The%20Heroes_%20-%20Han%20Sara.m4a"
+		},
+		{
+			"name": "Ngày Chưa Giông Bão (The Heroes)",
+			"singer": "Uni5",
+			"url": "https://data25.chiasenhac.com/download2/2178/1/2177918-425cfbaf/32/Ngay%20Chua%20Giong%20Bao%20The%20Heroes_%20-%20Uni5_.m4a"
+		},
+		{
+			"name": "Mộng Uyên Ương Hồ Điệp",
+			"singer": "Dương Edward",
+			"url": "https://data25.chiasenhac.com/download2/2176/1/2175123-b3405b38/32/Mong%20Uyen%20Uong%20Ho%20Diep%20-%20Duong%20Edward_%20T.m4a"
+		},
+		{
+			"name": "Cô Ấy Nói",
+			"singer": "Ngô Anh Đạt",
+			"url": "https://data25.chiasenhac.com/download2/2176/1/2175611-1da40ebc/32/Co%20Ay%20Noi%20-%20Ngo%20Anh%20Dat.m4a"
+		},
+		{
+			"name": "Tình Yêu Của Anh",
+			"singer": "Phú Quí",
+			"url": "https://data25.chiasenhac.com/download2/2178/1/2177975-92db3c85/32/Tinh%20Yeu%20Cua%20Anh%20-%20Phu%20Qui.m4a"
+		},
+		{
+			"name": "Đành Phải Buông",
+			"singer": "Linh Boo",
+			"url": "https://data25.chiasenhac.com/download2/2178/1/2177976-5ea08506/32/Danh%20Phai%20Buong%20-%20Linh%20Boo.m4a"
+		},
+		{
+			"name": "Anh Từng Mơ",
+			"singer": "Lê Vũ Xám",
+			"url": "https://data25.chiasenhac.com/download2/2178/1/2177979-fa82ff6c/32/Anh%20Tung%20Mo%20-%20Le%20Vu_%20Xam.m4a"
+		},
+		{
+			"name": "Đường Tôi Chở Em Về cukak remix",
+			"singer": "buitruonglinh",
+			"url": "https://data25.chiasenhac.com/download2/2175/1/2174854/32/Duong%20Toi%20Cho%20Em%20Ve%20cukak%20remix%20-%20buitru.m4a"
+		}
+	]
+}
